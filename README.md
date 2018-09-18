@@ -18,11 +18,7 @@
                Gateau 3 en cours de préparation 
                Gateau 1 en cours de cuisson … 
                Gateau 100 en cours d’emballage
-
-             * 
-             * 
-             * 
-             * Solution :
+Solution :
                      Je commence par analyser le problème :
                      1.	J’ai 100 gâteaux à préparer
                      2.	Le gâteau sera prêt quand il passe par les trois étapes (préparation, cuisson, emballage), l’ordre des étapes doit être respecté c’est-à-dire on ne peut pas emballer un gâteau avant qu’il soit cuisson. 
