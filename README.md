@@ -18,6 +18,11 @@
                Gateau 3 en cours de préparation 
                Gateau 1 en cours de cuisson … 
                Gateau 100 en cours d’emballage
+
+
+
+
+
 Solution :
                      Je commence par analyser le problème :
                      1.	J’ai 100 gâteaux à préparer
